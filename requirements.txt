@@ -1,7 +1,7 @@
 streamlit==1.35.0
 firebase_admin==6.5.0
 streamlit_navigation_bar==3.3.0
-tensorflow==2.15.0
+tensorflow==2.16.0
 keras==2.15.0
 keras.models
 pillow==10.3.0
