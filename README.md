@@ -40,7 +40,7 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/IAAIDS.git
+   git clone https://github.com/Yashwenth27/WeFarm_Agri.git
    ```
 
 2. Navigate to the project directory and follow setup instructions in the README.
@@ -61,11 +61,4 @@ Feel free to [open an issue](https://github.com/Yashwenth27/IAAIDS/issues) or su
 
 Made with ❤️ by [Yashwenth](mailto:126003302@sastra.ac.in)
 
----
 
-### ✅ Next Steps:
-- Replace `YOUR_USERNAME` with your GitHub username.
-- Add screenshots inside a `/screenshots` folder and update the table above.
-- Push this `README.md` to your repo root.
-
-Need help adding screenshots or configuring deployment? Just ask!
