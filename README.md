@@ -53,7 +53,7 @@
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!  
-Feel free to [open an issue](https://github.com/Yashwenth27/IAAIDS/issues) or submit a pull request.
+Feel free to [open an issue](https://github.com/Yashwenth27/WeFarm_Agri/issues) or submit a pull request.
 
 ---
 
